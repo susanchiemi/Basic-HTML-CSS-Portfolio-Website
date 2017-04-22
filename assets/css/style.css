@@ -1,0 +1,160 @@
+html {
+position: relative;
+min-height: 100%
+}
+/* ../Basic-Portfolio/assets/images/basic-portfolio-bg.jpg*/
+body {
+    background: url("file:///Users/Susan/Desktop/UCF-Homework/1.1/Basic-Portfolio/assets/images/basic-portfolio-bg.jpg") #e2e2e2;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 75px; /* bottom = footer height */
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 2em;
+}
+
+.clearfix {
+    clear: both;
+}
+
+/* main style */
+
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Georgia', Times, Times New Roman, serif;
+color: #4aaaa5;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+h3 { 
+    font-size: 22px;
+    font-weight: 600;
+    }
+h4 { 
+    font-size: 18px;
+    }
+h5 { 
+    font-size: 14px;
+    }
+h6 { 
+    font-size: 12px;
+    }
+
+#wrapper {
+    margin: 100px auto;
+    width: 960px;
+}
+
+header h1 {
+ height: 30px;
+	width: 260px;
+	float: left;
+	display: block;
+    color: #fff;
+    background-color: #4aaaa5;
+    margin-bottom: 0;
+    margin-left: 2%;
+    margin-top: 3%;
+    padding: 1%;
+}
+
+/*  style for nav */
+header nav {
+	float: right;
+	margin-top: 40px; 
+	}
+	
+	header nav li {
+		display: inline;
+		margin-left: 15px;
+		}
+
+    header nav li a {
+		text-decoration: none;
+        color: #777777;
+		}
+
+    header nav a:hover {
+		text-decoration: none;
+        color: #4aaaa5;
+		}
+/* I used percentage so I didn't have to mess with the pixels so much.  You have to subtract the pixels 
+from the left/right padding and margins for the width of containers */
+
+.main {
+    float: left;
+    width: 60%;
+    background-color: #fff;
+    padding: 30px 30px;
+    margin-bottom: 200px;
+}
+
+
+.main img {
+    float: left;
+    width: 200px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.sidebar {
+    float: right;
+    width:30%;
+    background-color: #fff;
+    padding: 0 10px;
+}
+
+
+#social-icons ul {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#social-icons li {
+		display: inline-block;
+		} 
+
+#social-icons a:hover {
+        opacity:.5;
+		} 
+
+#social-icons img {
+		margin: 10px;
+		}    
+
+.centered-header-2 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+footer {
+position: absolute;
+left: 0;
+bottom: 0;
+height: 50px;
+width: 100%;
+background-color: #666666;
+padding-top: 30px;
+border-top: 8px solid #4aaaa5;
+}
+
+footer p {
+    text-align: center;
+    font-size: 12px;
+    color: #CCCCCC;
+}
+
+/* contact page style */
+
+/* portfolio page style */
