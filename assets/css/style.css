@@ -2,9 +2,9 @@ html {
 position: relative;
 min-height: 100%
 }
-/* ../Basic-Portfolio/assets/images/basic-portfolio-bg.jpg*/
+/* ../Basic-Portfolio/assets/images/basic-portfolio-bg.jpg* Can't seem to get the relative link to work here. */
 body {
-    background: url("file:///Users/Susan/Desktop/UCF-Homework/1.1/Basic-Portfolio/assets/images/basic-portfolio-bg.jpg") #e2e2e2;
+    background-image: url("file:///Users/Susan/Desktop/UCF-Homework/1.1/Basic-Portfolio/assets/images/basic-portfolio-bg-cover.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 75px; /* bottom = footer height */
@@ -15,6 +15,10 @@ body {
 
 .clearfix {
     clear: both;
+}
+
+hr {
+border: 1px solid #e2e2e2;
 }
 
 /* main style */
@@ -157,4 +161,48 @@ footer p {
 
 /* contact page style */
 
+input[type=submit] {
+    padding:10px 15px; 
+    background:#4aaaa5; 
+    border:0 none;
+    cursor:pointer;
+    color: white;
+    font-size: 14px;
+}
+
+
 /* portfolio page style */
+
+    ul.grid-container {
+    	list-style: none;
+    }
+
+    ul.grid-container li {
+    	display: inline-block;
+    	font-size: 14px;
+    	vertical-align: top;
+    	box-sizing: border-box;
+    	-moz-box-sizing: border-box;
+    	-webkit-box-sizing: border-box;
+    }
+    ul.grid-container li img {
+        position: relative;
+    	width: auto;
+    	height: 100%;
+    	margin: 10px 0 0 10px;
+    }
+    ul.grid-container li h3 {
+        position: absolute;
+        height: 50px;
+        min-width: 240px;
+        background-color: #4aaaa5;
+        color: #FFFFFF;
+        font-weight: 400;
+        vertical-align: middle;
+        margin-top: 125px;
+        margin-left: 10px;
+        padding-left: 10px;
+        padding-top: 10px;
+       
+    }
+  
