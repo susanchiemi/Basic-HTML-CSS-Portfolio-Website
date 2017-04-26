@@ -2,7 +2,7 @@ html {
 position: relative;
 min-height: 100%
 }
-/* ../Basic-Portfolio/assets/images/basic-portfolio-bg.jpg* Can't seem to get the relative link to work here. */
+
 body {
     background-image: url("../images/basic-portfolio-bg-cover.jpg");
     background-repeat: no-repeat;
