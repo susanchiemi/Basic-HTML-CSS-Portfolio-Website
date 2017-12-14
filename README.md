@@ -10,7 +10,6 @@
 
 ## Future Development
 * Contact form needs additional css to give a modern look.
-* I will use the Portfolio Page and any new social media icons and links and include it in my Wordpress site.
 
 ## Acknowledgments
 * UCF Coding Bootcamp Homework assignment
