@@ -1,4 +1,4 @@
-# Basic-Portfolio
+# Basic HTML & CSS- 3 Page Portfolio Website 
 * Basic HTML/CSS three page portfolio website. Basic layout matches my current portfolio.
 * Home Page (About), Portfolio Page, Contact Page and required links per homework assignment.
 * [Basic-Portfolio](https://susanchiemi.github.io/Basic-Portfolio/) - published paged
