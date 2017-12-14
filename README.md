@@ -1,19 +1,16 @@
 # Basic-Portfolio
-Basic HTML/CSS Portfolio Page
+* Basic HTML/CSS 3 Page Portfolio Website. Basic Layout matches my current portfolio * [susanwormley.com](https://susanwormley.com). Home Page (About), Portfolio Page, Contact Page and required links per homework assignment.
+* [Basic-Portfolio](https://susanchiemi.github.io/Basic-Portfolio/) - published paged
 
-## Built With
+## Tools Used
+* [Visual Studio Code](https://code.visualstudio.com/) - code editor
+* Command Line with Terminal to push project to Github
+* [GitHub Pages](https://help.github.com/articles/what-is-github-pages/) - code editor
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+## Future Development
+* Contact form needs additional css to give a modern look.
+* I will use the Portfolio Page and any new social media icons and links and include it in my Wordpress site.
 
 ## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* UCF Coding Bootcamp Homework assignment
 
