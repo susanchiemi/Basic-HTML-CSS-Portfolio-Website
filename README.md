@@ -9,7 +9,6 @@
 * [GitHub Pages](https://help.github.com/articles/what-is-github-pages/) - code editor
 
 ## Future Development
-* Contact form needs additional css to give a modern look.
 
 ## Acknowledgments
 * UCF Coding Bootcamp Homework assignment
